@@ -67,8 +67,6 @@ Open the app in two or more browser tabs or devices.
 Start typing in one tab and see the updates reflected live on the other tab.
 Each user can make their own changes, and they will instantly be visible to all connected users in real-time.
 
-### License
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
 
 
 ### Contributing
