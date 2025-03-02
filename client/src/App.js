@@ -49,7 +49,7 @@ function App(){
 
   return (
     <div className='App'>
-      <h1>Google Docs men jumia</h1>
+      <h1>Real-Time-Collaborative-Text-Editor</h1>
       <textarea
          value={document}
          onChange={handleChange}
